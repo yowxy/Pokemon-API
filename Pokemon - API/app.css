@@ -1,0 +1,20 @@
+.pokemon{
+    display: inline-block;
+    text-align: center;
+}
+
+
+.pokemon img{
+    display: block;
+}
+
+.poke {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.poke:hover{
+    color: brown;
+    cursor: pointer;
+}
